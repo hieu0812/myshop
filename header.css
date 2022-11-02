@@ -43,7 +43,7 @@ li a{
 .fa-search {
     position: absolute;
     top: 32px;
-    left: 10px;
+    right: 14px;
 }
 .fa-search:hover {
     cursor: pointer;
